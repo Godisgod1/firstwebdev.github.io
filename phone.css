@@ -1,0 +1,31 @@
+#navbar {
+    flex-direction: column;
+}
+
+#search input{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+#navbar ul li a {
+    padding: 0px 15px;
+}
+
+#navbar ul {
+    display: flex;
+    padding-left: 0px;
+}
+
+#middle1{
+    padding-top: 180px;
+   flex-direction: column;
+}
+
+#middle p {
+    padding-top: 70px;
+}
+
+#middle h3 {
+    padding-top: 20px;
+}
