@@ -5,7 +5,7 @@
 #search {
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 0px;
+    margin-left: 10px;
 }
 
 #navbar ul li a {
@@ -13,13 +13,12 @@
 }
 
 #navbar ul {
-    display: flex;
-    padding-left: 0px;
+    margin-left: -50px;
 }
 
 #middle1{
     padding-top: 180px;
-   flex-direction: column;
+    flex-direction: column;
 }
 
 #middle p {
