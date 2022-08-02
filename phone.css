@@ -2,10 +2,10 @@
     flex-direction: column;
 }
 
-#search input{
+#search {
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 5px;
+    margin-left: 0px;
 }
 
 #navbar ul li a {
